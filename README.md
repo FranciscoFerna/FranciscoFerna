@@ -1,25 +1,23 @@
 ## Hi there 👋
 
-[![Explore, star, comment, fork](https://readme-typing-svg.demolab.com?font=Ubuntu+mono&weight=300&size=18&color=E95420&multiline=true&random=false&width=435&lines=Feel+free+to+explore%2C+star%2C+clone;fork+and+comment+my+repos+%26+gists)](https://git.io/typing-svg)
-
 ---
 
 ### Hello, I'm Fran! 💻
 
 - 🔭 I’m currently studying **Web Development** (GS in DAWe) and I’ve completed a **degree in IT Systems**.
-- 🌱 Always learning and improving my skills in **Kotlin**, **Git**, **Java**, and more.
-- 👯 Looking forward to collaborating on exciting new projects and challenges.
-- ⚡ Fun fact: I love solving complex problems quickly and creatively, and I enjoy leading and working in teams.
+- 🌱 Always learning and improving my skills in **Kotlin**, **PHP**, **HTML**, **CSS**, **JavaScript**, and more.
+- 👯 I'm eager to collaborate on exciting projects and take on new challenges.
+- ⚡ Fun fact: I enjoy solving complex problems quickly and creatively, and I often lead teams to success.
 
 ---
 
 ### 🚀 Technologies & Tools
 
 ![](https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=kotlin&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 
 ---
 
