@@ -20,8 +20,6 @@ class SoftwareEngineer {
 
 ---
 
-### Hello, I'm Fran! 💻
-
 - 🔭 I’m currently studying **Web Development** (GS in DAWe) and I’ve completed a **degree in IT Systems**.
 - 🌱 Always learning and improving my skills in **Kotlin**, **Git**, **Python**, and more.
 - 👯 Looking forward to collaborating on exciting new projects and challenges.
