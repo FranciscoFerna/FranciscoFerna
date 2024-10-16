@@ -2,6 +2,21 @@
 
 [![Join me in coding adventures!](https://readme-typing-svg.demolab.com?font=Ubuntu+mono&weight=300&size=18&color=E95420&multiline=true&random=false&width=435&lines=Join+me+in+exciting+coding+adventures!;Let's+build+the+future+together!)](https://git.io/typing-svg)
 
+---
+
+### Hello, I'm Fran! 💻
+
+```kotlin
+class SoftwareEngineer {
+    var name: String = "Fran Fernández"
+    var role: String = "Aspiring Web Developer"
+    var languagesSpoken: List<String> = listOf("es_ES", "en_US")
+
+    fun sayHi() {
+        println("Thanks for dropping by, hope you find some of my work interesting.")
+    }
+}
+```
 
 ---
 
@@ -18,9 +33,11 @@
 
 ![](https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=kotlin&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-CSS-informational?style=flat&logo=css&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-SQL-informational?style=flat&logo=sql&logoColor=white&color=2bbc8a)
+
 
 ---
 
