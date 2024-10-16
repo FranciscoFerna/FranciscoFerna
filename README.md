@@ -1,27 +1,50 @@
-# 👋 Hola, soy Fran Fernández Navarro
+## Hi there 👋
 
-Soy un apasionado **estudiante de desarrollo de aplicaciones** (DAWe) en grado superior, con un sólido trasfondo en **Sistemas Microinformáticos y Redes**. Mi experiencia de **3 años como entrenador** me ha enseñado a **trabajar en equipo** de manera efectiva y a comprometerme hasta completar cada proyecto. 💪
-
-## 🛠️ Habilidades:
-- **Lenguajes de programación**: Kotlin, Pseint, entre otros.
-- **Diseño y gestión de bases de datos**: Experiencia en el modelo E-R y su transformación a modelos relacionales.
-- **Version control**: Dominio de Git, incluyendo la creación de repositorios locales y gestión de ramas.
-
-## 🚀 Proyectos destacados:
-- Desarrollo de un juego en Pseint que desafía a los jugadores a adivinar números, incorporando un sistema de puntuación y opciones de juego innovadoras.
-- Diseño de un sistema de gestión de ofertas de trabajo en XML, incluyendo un DTD para estructurar la información de manera organizada.
-- Construcción de un repositorio local utilizando Git para proyectos colaborativos.
-
-## 🌟 Mi enfoque:
-Soy **competitivo, eficaz, creativo y rápido**, siempre en busca de aprender y mejorar. Me apasiona enfrentar desafíos y encontrar soluciones innovadoras.
-
-## 📫 Conéctame:
-¡Estoy abierto a colaborar en proyectos interesantes y a aprender de la comunidad! No dudes en contactarme a través de [LinkedIn](https://www.linkedin.com/in/tu-perfil) o en [Twitter](https://twitter.com/tu-cuenta).
+[![Explore, star, comment, fork](https://readme-typing-svg.demolab.com?font=Ubuntu+mono&weight=300&size=18&color=E95420&multiline=true&random=false&width=435&lines=Feel+free+to+explore%2C+star%2C+clone;fork+and+comment+my+repos+%26+gists)](https://git.io/typing-svg)
 
 ---
 
-## Badges:
-![Kotlin](https://img.shields.io/badge/Kotlin-000000?style=for-the-badge&logo=kotlin&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Pseint](https://img.shields.io/badge/Pseint-00A3E0?style=for-the-badge&logoColor=white)
+### Hello, I'm Fran! 💻
 
+- 🔭 I’m currently studying **Web Development** (GS in DAWe) and I’ve completed a **degree in IT Systems**.
+- 🌱 Always learning and improving my skills in **Kotlin**, **Git**, **Java**, and more.
+- 👯 Looking forward to collaborating on exciting new projects and challenges.
+- ⚡ Fun fact: I love solving complex problems quickly and creatively, and I enjoy leading and working in teams.
+
+---
+
+### 🚀 Technologies & Tools
+
+![](https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=kotlin&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
+
+---
+
+### 📈 GitHub Stats
+
+<a href="https://github.com/FranciscoFerna">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=FranciscoFerna&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Fran's GitHub Stats" />
+</a>
+
+---
+
+### 🎯 Projects & Contributions
+
+- 💡 Currently working on a **restaurant database project** to enhance my understanding of **database design**.
+- 🤝 Actively seeking opportunities to collaborate on **ERP systems** and other software development projects.
+
+---
+
+### 📫 Reach Me
+
+- LinkedIn: [Fran Fernández](https://www.linkedin.com/in/fran-fernandez-navarro/)
+- GitHub: [FranciscoFerna](https://github.com/FranciscoFerna)
+
+---
+
+![Coding gif](https://media.giphy.com/media/l4FGuhL4U2WyjdkaY/giphy.gif)
+
+### ✨ Let's connect and create amazing things together!
