@@ -1,27 +1,27 @@
 # 👋 Hola, soy Fran Fernández Navarro
 
-📚 Estudiante de **Grado Superior en Desarrollo de Aplicaciones Web** en DAWe.  
-🎓 Graduado en **Sistemas Microinformáticos y Redes**.
+Soy un apasionado **estudiante de desarrollo de aplicaciones** (DAWe) en grado superior, con un sólido trasfondo en **Sistemas Microinformáticos y Redes**. Mi experiencia de **3 años como entrenador** me ha enseñado a **trabajar en equipo** de manera efectiva y a comprometerme hasta completar cada proyecto. 💪
 
-💻 **Habilidades**:  
-- **Lenguajes de programación**: Kotlin, JavaScript, HTML, CSS  
-- **Herramientas y frameworks**: Pseint, Git, (añadir otros según tus habilidades)  
-- **Desarrollo de software**: Programación orientada a objetos, diseño de bases de datos, desarrollo de aplicaciones.  
-- **Metodologías**: Trabajo en equipo, liderazgo, enfoque en resultados.  
+## 🛠️ Habilidades:
+- **Lenguajes de programación**: Kotlin, Pseint, entre otros.
+- **Diseño y gestión de bases de datos**: Experiencia en el modelo E-R y su transformación a modelos relacionales.
+- **Version control**: Dominio de Git, incluyendo la creación de repositorios locales y gestión de ramas.
 
-🚀 **Proyectos destacados**:  
-- **Juego de Adivinanza**: Un juego interactivo en Pseint con mecánicas de puntuación y opciones de adivinanza.
-- **Sistema de gestión de bases de datos para un restaurante**: Diseño y desarrollo de un modelo E/R y su implementación en SQL.  
-- **Colaboraciones**: Participación en proyectos grupales que promueven el aprendizaje colaborativo y la innovación.
+## 🚀 Proyectos destacados:
+- Desarrollo de un juego en Pseint que desafía a los jugadores a adivinar números, incorporando un sistema de puntuación y opciones de juego innovadoras.
+- Diseño de un sistema de gestión de ofertas de trabajo en XML, incluyendo un DTD para estructurar la información de manera organizada.
+- Construcción de un repositorio local utilizando Git para proyectos colaborativos.
 
-🏆 **Badges**:  
-[![Badge de Aprendizaje](https://img.shields.io/badge/Aprendizaje-Continuo-brightgreen)](https://example.com)  
-[![Badge de Colaborador](https://img.shields.io/badge/Colaborador-Activo-blue)](https://example.com)  
-[![Badge de Innovador](https://img.shields.io/badge/Innovador-Creativo-yellow)](https://example.com)  
+## 🌟 Mi enfoque:
+Soy **competitivo, eficaz, creativo y rápido**, siempre en busca de aprender y mejorar. Me apasiona enfrentar desafíos y encontrar soluciones innovadoras.
 
-🌍 **Conecta conmigo**:  
-[LinkedIn](https://linkedin.com/in/tu-perfil) | [Twitter](https://twitter.com/tu_usuario) | [Portfolio](https://tu-portfolio.com)
+## 📫 Conéctame:
+¡Estoy abierto a colaborar en proyectos interesantes y a aprender de la comunidad! No dudes en contactarme a través de [LinkedIn](https://www.linkedin.com/in/tu-perfil) o en [Twitter](https://twitter.com/tu-cuenta).
 
 ---
 
-✨ ¡Siempre abierto a nuevas oportunidades y colaboraciones!
+## Badges:
+![Kotlin](https://img.shields.io/badge/Kotlin-000000?style=for-the-badge&logo=kotlin&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Pseint](https://img.shields.io/badge/Pseint-00A3E0?style=for-the-badge&logoColor=white)
+
