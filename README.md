@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![Explore, code, collaborate](https://readme-typing-svg.demolab.com?font=Ubuntu+mono&weight=300&size=18&color=E95420&multiline=true&random=false&width=435&lines=Explore%2C+code%2C+collaborate%2C+and+create+amazing+projects)](https://git.io/typing-svg)
+[![Join me in coding adventures!](https://readme-typing-svg.demolab.com?font=Ubuntu+mono&weight=300&size=18&color=E95420&multiline=true&random=false&width=435&lines=Join+me+in+exciting+coding+adventures!;Let's+build+the+future+together!)](https://git.io/typing-svg)
 
 
 ---
