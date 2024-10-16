@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-[![Explore, star, comment, fork](https://readme-typing-svg.demolab.com?font=Ubuntu+mono&weight=300&size=18&color=E95420&multiline=true&random=false&width=435&lines=Feel+free+to+explore%2C+star%2C+clone;fork+and+comment+my+repos+%26+gists)](https://git.io/typing-svg)
+[![Explore, code, collaborate](https://readme-typing-svg.demolab.com?font=Ubuntu+mono&weight=300&size=18&color=E95420&multiline=true&random=false&width=435&lines=Explore%2C+code%2C+collaborate%2C+and+create+amazing+projects)](https://git.io/typing-svg)
+
 
 ---
 
