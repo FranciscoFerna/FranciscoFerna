@@ -36,7 +36,7 @@ class SoftwareEngineer {
 ![](https://img.shields.io/badge/Tools-CSS-informational?style=flat&logo=css&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-SQL-informational?style=flat&logo=sql&logoColor=white&color=2bbc8a)
 
-
+[![wakatime](https://wakatime.com/badge/user/5ccf70b9-e9b4-41d9-a3ef-3fe423b571f4.svg)](https://wakatime.com/@5ccf70b9-e9b4-41d9-a3ef-3fe423b571f4)
 ---
 
 ### 📈 GitHub Stats
