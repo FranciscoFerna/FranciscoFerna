@@ -1,22 +1,29 @@
-## Hi there 👋
+### Hello, I'm Fran! 💻
+[![Linkedin Badge](https://img.shields.io/badge/Fran-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fraancisco-fern%C3%A1ndez/)](https://www.linkedin.com/in/fraancisco-fern%C3%A1ndez/)
+[![Instagram Badge](https://img.shields.io/badge/-@fraanxuu_-yellow?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/fraanxuu_/)](https://www.instagram.com/fraanxuu_/)
+[![Gmail Badge](https://img.shields.io/badge/-fraanfeernaandeez-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:fraanfeernaandeez@gmail.com)](mailto:fraanfeernaandeez@gmail.com)
 
-[![Join me in coding adventures!](https://readme-typing-svg.demolab.com?font=Ubuntu+mono&weight=300&size=18&color=E95420&multiline=true&random=false&width=435&lines=Join+me+in+exciting+coding+adventures!;Let's+build+the+future+together!)](https://git.io/typing-svg)
+
 
 ---
 
-### Hello, I'm Fran! 💻
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=FranciscoFerna&theme=dracula&column=6&margin-w=15&margin-h=15" alt="Trophy Section" />
+</p>
 
-```kotlin
-class SoftwareEngineer {
-    var name: String = "Fran Fernández"
-    var role: String = "Aspiring Web Developer"
-    var languagesSpoken: List<String> = listOf("es_ES", "en_US")
+---
 
-    fun sayHi() {
-        println("Thanks for dropping by, hope you find some of my work interesting.")
-    }
-}
-```
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=FranciscoFerna&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FranciscoFerna&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FranciscoFerna&theme=tokyonight&layout=compact&hide_border=true" alt="Top Languages" />
+</p>
 
 ---
 
