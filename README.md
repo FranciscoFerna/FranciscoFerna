@@ -22,8 +22,8 @@ Un joven apasionado por el **Desarrollo Web** y estudiante de un **Grado Superio
 ## 🌱 Siempre aprendiendo  
 Estoy en una misión constante de superación. Actualmente estoy mejorando mis habilidades en:  
 - 🎨 **Frontend**: HTML, CSS, JavaScript  
-- 🛠️ **Backend**: SQL (DDL, DML), XML, XSL  
-- 💻 **Lenguajes**: Kotlin  
+- 🛠️ **Backend**: SQL (DDL, DML), XML, XSL, PHP, PostGres 
+- 💻 **Lenguajes**: HTML, CSS, JS, KOTLIN, PHP, XML, XSLT, JSON, SQL  
 Siempre atento a lo último en tecnología y tendencias. 🚀
 
 ---
